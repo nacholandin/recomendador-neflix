@@ -1,1 +1,1 @@
-Recomendador de series y peliculas de cartelera de Netflix 2020 según valoraciones de usuarios anonimos a Netflix.
+Recomendador de series y peliculas de cartelera de Netflix 2020 según valoraciones de usuarios anonimos a Netflix. El proyecto consiste en escoger un usuario anonimo al azar y según sus valoraciones analiza los generos, descripciones, directores y actores, dando resultado unas recomendaciones para ese usuario.
